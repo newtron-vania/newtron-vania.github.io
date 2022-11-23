@@ -108,7 +108,6 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Newtron의 성장 블로그"
   location         : "Republic of Korea"
-  email            : "galtab0403@gmail.com"
   links:
     - label: "이메일"
       icon: "fas fa-fw fa-envelope-square"
