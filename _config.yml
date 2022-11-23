@@ -73,9 +73,9 @@ google:
   search_engine_id       : # YOUR_SEARCH_ENGINE_ID
   instant_search         : # false (default), true
 # SEO Related
-google_site_verification :
+google_site_verification : "UQj93ERU9zgECodaaXgVpkjrFn9UrDMEzVamacSoQ8Y" # Replace this with your ID, or delete
 bing_site_verification   :
-naver_site_verification  :
+naver_site_verification  : "9369a7ad7a1c0d39867d03846908e78459110da2"
 yandex_site_verification :
 baidu_site_verification  :
 
